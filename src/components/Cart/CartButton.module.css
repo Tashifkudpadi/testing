@@ -1,0 +1,22 @@
+.button {
+  background-color: #fff;
+  border-color: rebeccapurple;
+  color: rebeccapurple;
+}
+
+.button:hover,
+.button:active {
+  background-color: rgb(137, 118, 156);
+  color: #fff;
+}
+
+.button span {
+  margin: 0 0.5rem;
+}
+
+.badge {
+  background-color: rebeccapurple;
+  border-radius: 30px;
+  padding: 0.15rem 1.25rem;
+  color: #ffffff;
+}

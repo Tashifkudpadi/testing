@@ -1,0 +1,23 @@
+.category-filter {
+  /* color: white; */
+  padding: 0 4rem;
+  /* background-color: bisque; */
+}
+
+.category-filter__control {
+  width: 100%;
+  padding: 1rem;
+}
+
+.category-filter label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  margin-right: 12px;
+}
+
+.category-filter select {
+  font: inherit;
+  padding: 0.5rem 3rem;
+  font-weight: bold;
+  border-radius: 6px;
+}

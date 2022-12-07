@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Potato",
+    "id": 1,
+    "price": 30,
+    "img": "https://www.bigbasket.com/media/uploads/p/s/10000201_15-fresho-tomato-hybrid.jpg",
+    "available": 1,
+    "vendor": "Himachal Pvt Ltd",
+    "category": "Vegetables"
+  },
+  {
+    "name": "Banana",
+    "id": 2,
+    "price": 50,
+    "img": "https://www.bigbasket.com/media/uploads/p/s/50000457_4-fresho-banana-yelakki-organically-grown.jpg",
+    "available": 1,
+    "category": "Fruits",
+    "vendor": "Organic farms"
+  },
+  {
+    "name": "Drumsticks",
+    "id": 3,
+    "price": 20,
+    "img": "https://www.bigbasket.com/media/uploads/p/s/10000109_18-fresho-drumstickmoringa.jpg",
+    "available": 0,
+    "vendor": "Mallikarjuna farms",
+    "category": "Vegetables"
+  },
+  {
+    "name": "Orange",
+    "id": 4,
+    "price": 25,
+    "img": "https://www.bigbasket.com/media/uploads/p/s/20003956_2-fresho-baby-orange.jpg",
+    "available": 1,
+    "vendor": "Nagpur farms",
+    "category": "Fruits"
+  }
+]
